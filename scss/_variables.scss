@@ -1,0 +1,13 @@
+$aqua: #00a99d;
+$grey: #383838;
+$bgc: #f9f9f9;
+$silver: #606060;
+$milk: #e4e4e4;
+
+@mixin fontMedium {
+   font-weight: 500;
+}
+
+@mixin fontExtraBold {
+   font-weight: 800;
+}
